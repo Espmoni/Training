@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/User/Desktop/Data%20Science/my_projects/house_prices/mlruns/573034564248738438/4fd9e1deb4054afd98063b5f7dc9c66f/artifacts
+end_time: 1727182465397
+entry_point_name: ''
+experiment_id: '573034564248738438'
+lifecycle_stage: active
+run_id: 4fd9e1deb4054afd98063b5f7dc9c66f
+run_name: delicate-turtle-899
+run_uuid: 4fd9e1deb4054afd98063b5f7dc9c66f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727182459251
+status: 3
+tags: []
+user_id: User

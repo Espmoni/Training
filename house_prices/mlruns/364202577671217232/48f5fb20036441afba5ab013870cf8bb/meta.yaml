@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/User/Desktop/Data%20Science/my_projects/house_prices/mlruns/364202577671217232/48f5fb20036441afba5ab013870cf8bb/artifacts
+end_time: 1729700673523
+entry_point_name: ''
+experiment_id: '364202577671217232'
+lifecycle_stage: active
+run_id: 48f5fb20036441afba5ab013870cf8bb
+run_name: run3.1
+run_uuid: 48f5fb20036441afba5ab013870cf8bb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729700670075
+status: 3
+tags: []
+user_id: User
